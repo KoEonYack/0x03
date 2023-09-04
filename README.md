@@ -23,7 +23,9 @@
     <img src="./img/android.png?raw=true" width="20%" />
     <img src="./img/ios.png?raw=true" width="20%" />
 </p>
-<img src="./img/contributors.png?raw=true">
+<p align="center">
+    <img src="./img/contributors.png?raw=true" width="80%">
+</p>
 
 > 배너 클릭시 연관 링크로 이동합니다.
 
