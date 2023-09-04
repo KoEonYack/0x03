@@ -4,7 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
-![img](./img/top.png)
+![img](https://github.com/brave-people/Dev-Event/raw/master/static/title-v3-lg.png?raw=true)
 
 </div>
 <br />
@@ -16,7 +16,6 @@
 <a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app">
     
 </a>
-
 <p align="center">
     <img src="./img/web.png?raw=true" width="22%" />
     <img src="./img/android.png?raw=true" width="22%" />
