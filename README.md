@@ -13,17 +13,17 @@
 </div>
 <br />
 
-<a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app">
-    
-</a>
+<a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app"></a>
+
 <p align="center">
-    <img src="./img/web.png?raw=true" width="22%" />
-    <img src="./img/android.png?raw=true" width="22%" />
-    <img src="./img/android.png?raw=true" width="22%" />
-    <img src="./img/ios.png?raw=true" width="22%" />
+    <img src="./img/event_v2.png?raw=true" width="88%">
 </p>
+
 <p align="center">
-    <img src="./img/contributors.png?raw=true" width="88%">
+    <img src="./img/web_v2.png?raw=true" width="22%" />
+    <img src="./img/android_v2.png?raw=true" width="22%" />
+    <img src="./img/web_v2.png?raw=true" width="22%" />
+    <img src="./img/contributors_v2.png?raw=true" width="22%" />
 </p>
 
 > 배너 클릭시 연관 링크로 이동합니다.
