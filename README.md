@@ -18,7 +18,7 @@
 ---------------------------
 
 <p align="center">
-    <img src="./img/event_v4.png?raw=true" width="84%">
+    <img src="./img/event_v5.png?raw=true" width="84%">
 </p>
 
 <p align="center">
