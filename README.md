@@ -16,14 +16,14 @@
 <a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app"></a>
 
 <p align="center">
-    <img src="./img/event_v2.png?raw=true" width="88%">
+    <img src="./img/event_v2.png?raw=true" width="100%">
 </p>
 
 <p align="center">
-    <img src="./img/web_v2.png?raw=true" width="22%" />
-    <img src="./img/android_v2.png?raw=true" width="22%" />
-    <img src="./img/web_v2.png?raw=true" width="22%" />
-    <img src="./img/contributors_v2.png?raw=true" width="22%" />
+    <img src="./img/web_v2.png?raw=true" width="25%" />
+    <img src="./img/android_v2.png?raw=true" width="25%" />
+    <img src="./img/email_v2.png?raw=true" width="25%" />
+    <img src="./img/contributors_v2.png?raw=true" width="25%" />
 </p>
 
 > 배너 클릭시 연관 링크로 이동합니다.
