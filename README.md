@@ -15,8 +15,6 @@
 
 <a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app"></a>
 
----------------------------
-
 <p align="center">
     <img src="./img/event_v5.png?raw=true" width="84%">
 </p>
@@ -29,57 +27,6 @@
 </p>
 
 > 배너 클릭시 연관 링크로 이동합니다.
-
----------------------------
-
-
-<p align="center">
-    <img src="./img/event_v2.png?raw=true" width="96%">
-</p>
-
-<p align="center">
-    <img src="./img/web_v2.png?raw=true" width="24%" />
-    <img src="./img/android_v2.png?raw=true" width="24%" />
-    <img src="./img/email_v2.png?raw=true" width="24%" />
-    <img src="./img/contributors_v2.png?raw=true" width="24%" />
-</p>
-
-> 배너 클릭시 연관 링크로 이동합니다.
-
-
----------------------------
-
-
-
-
-<!-- <table>
-<tr>
-  <td valign="top" width="50%">
-    <a href="https://dev-event.vercel.app/events">
-      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/banner/banner5.png?raw=true" align="left" style="width: 98%" />
-    </a>
-  </td>
-  <td valign="top" width="50%">
-    <a href="https://github.com/brave-people/Dev-Event-Subscribe">
-      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/banner/banner1.png?raw=true" align="left" style="width: 98%" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td valign="top" width="50%">
-    <a href="https://github.com/brave-people/Dev-Event-Android">
-      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/banner/banner2.png?raw=true" align="left" style="width: 98%" />
-    </a>
-  </td>
-  <td valign="top" width="50%">
-    <a href="https://github.com/brave-people/Dev-Event#contributors-">
-      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/banner/banner3.png?raw=true" align="left" style="width: 98%" />
-    </a>
-  </td>
-</tr>
-</table>   -->
-
-
 
 <br />
 
